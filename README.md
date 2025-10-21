@@ -24,7 +24,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ### 🚀 Live Demo and Links
 
 - Solution URL: [https://github.com/Ayanfe8/blog-preview-card](https://github.com/Ayanfe8/blog-preview-card)
-- Live Demo URL: You can view the live version of the project [https://ayanfe8.github.io/QR-Code-Component/](https://ayanfe8.github.io/QR-Code-Component/)
+- Live Demo URL: You can view the live version of the project [https://ayanfe8.github.io/blog-preview-card/](https://ayanfe8.github.io/blog-preview-card/)
 
 ## My process
 
